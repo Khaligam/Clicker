@@ -1,0 +1,7 @@
+  <resources>
+    <string name="app_name">Clicker</string>
+    <string name="button">Button</string>
+    <string name="tap_me">TAP ME</string>
+    <string name="time_left_text">Time left:</string>
+      <string name="score">Score:</string>
+  </resources>
